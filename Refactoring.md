@@ -10,4 +10,4 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 
 ## Your Explanation Here
 
-I have decided to use an early exit by the use of return in every conditional block also not storing data in a temporary variable and in line 8 I decided to use the short hand if statement since it's more readable.
+I have decided to use an early exit by the use of return in every conditional block also not storing data in a temporary variable.
