@@ -40,6 +40,8 @@ As a company we would like to view reports containing how many hours each agent 
 
 ## Acceptance Criteria
 The pivot tables are used to store the data and show the relationships in the different tables.
+
 AC 1: With the use of the pivot table in Ticket - CBH-1 and - CBH-2 create a function that returns json data on each agent shift and their total number of hours worked each quarter. The data returned is:
 - agents, facilities and summation of shift hours { agent : { facilities : { id, name } }, shifts: () total number of hours ) }
+
 AC 2: Generate a PDF report to display the above data in a readable manner with the agent name as a heading.
